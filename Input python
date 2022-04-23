@@ -1,0 +1,6 @@
+#input function
+x=10
+y= 20
+z=int(input('enter the value'))
+print(x+y+z)
+print(z)
