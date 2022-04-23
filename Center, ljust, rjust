@@ -1,0 +1,4 @@
+x= "50"
+print(x.center(10,'%'))
+print(x.rjust(10,'$'))
+print(x.ljust(10,'@'))
